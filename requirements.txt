@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg2-binary # Se for usar PostgreSQL (recomendado para Render)
+asyncio-mqtt # Cliente MQTT assíncrono
+aiosmtplib # Cliente SMTP assíncrono para emails
+pydantic-settings # Para gerenciar configurações de forma robusta
